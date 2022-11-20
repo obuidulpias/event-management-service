@@ -1,5 +1,7 @@
 --------------Event Management service----------------
 
+Note: Please README.md file open with any editor for API better view.
+
 Instruction about how to run the project:
 * Create mysql database and DB_NAME: em_servise
 * First need to import em_servise.sql on mysql database
